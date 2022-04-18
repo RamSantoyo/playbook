@@ -60,6 +60,6 @@ console.log(facebook.getInfo());
 console.log("Usuario: "+ uber.profile);
 console.log(uber.getInfo());
    
-   console.log("Nombre del repo:" + repo.name)
-   console.log("Issues totales: " + repo.getTotalIssues())
-   console.log(repo.getGeneralInfo())
+console.log("Nombre del repo:" + repo.name)
+console.log("Issues totales: " + repo.getTotalIssues())
+console.log(repo.getGeneralInfo())
